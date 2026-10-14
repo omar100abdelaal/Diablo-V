@@ -1,0 +1,44 @@
+﻿# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE files and generated project files
+.vs/
+.gradle/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+
+# Generated builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Unavailable texture files
+/Assets/textures/brick_pavement_02_diff_4k.jpg
+/Assets/textures/brick_pavement_02_disp_4k.png
+/Assets/textures/brick_pavement_02_nor_gl_4k.exr
+/Assets/textures/brick_pavement_02_rough_4k.exr
